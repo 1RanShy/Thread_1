@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/main.cpp.obj: \
- C:\Users\RanShy\Desktop\Threads\main.cpp \
- C:\Users\RanShy\Desktop\Threads\include/common_data.h \
+ C:\Users\RanShy\Desktop\Thread_1\main.cpp \
+ C:\Users\RanShy\Desktop\Thread_1\include/common_data.h \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/mutex \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tuple \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/utility \
@@ -123,7 +123,7 @@ CMakeFiles/main.dir/main.cpp.obj: \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/system_error \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_mutex.h \
- C:\Users\RanShy\Desktop\Threads\include/add.h \
+ C:\Users\RanShy\Desktop\Thread_1\include/add.h \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
